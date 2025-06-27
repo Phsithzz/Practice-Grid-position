@@ -220,8 +220,8 @@ const Home = () => {
                       alt="Apple Watch"
                       className="w-30 h-30"
                     />
-                    <div className=" flex gap-2 self-end bg-gray-200 rounded-xl shadow-md backdrop-blur-2xl w-fit ">
-                      <FaStar className="text-amber-400" />
+                    <div className=" flex justify-center items-center gap-2 self-end bg-white rounded-xl shadow-md backdrop-blur-2xl w-fit ">
+                      <FaStar className="text-amber-400 text-xl" />
                       <p className="text-md">4.7</p>
                     </div>
                   </div>
