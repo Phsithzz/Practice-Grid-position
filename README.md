@@ -15,8 +15,8 @@ A modern, responsive product showcase UI built with **React.js** and **Tailwind 
 
 ## 🌐 Live Demo
 
-🔗 [View the app on Vercel](https://your-vercel-url.vercel.app)  
-ดูตัวอย่าง: [คลิกที่นี่](https://your-vercel-url.vercel.app)
+🔗 [View the app on Vercel](https://practice-grid-position.vercel.app/)  
+ดูตัวอย่าง: [คลิกที่นี่](https://practice-grid-position.vercel.app/)
 
 ---
 
