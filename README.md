@@ -33,8 +33,8 @@ A modern, responsive product showcase UI built with **React.js** and **Tailwind 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/product-ui-showcase.git
-   cd product-ui-showcase
+   git clone https://github.com/Phsithzz/Practice-Grid-position.git
+   cd Practice-Grid-position
 
 2. Install dependencies
     ```bash
